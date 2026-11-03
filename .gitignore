@@ -1,0 +1,21 @@
+# Compiled binaries & object files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug and symbol files
+*.pdb
+*.ilk
+
+# IDE & Editor folders
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.user
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
